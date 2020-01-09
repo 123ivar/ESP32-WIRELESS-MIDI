@@ -8,6 +8,7 @@ Tx: GPIO 17
 
 # Tools
 Arduino IDE:  Compiler for the code
+
 nRF Connect:  For connecting to unofficial bluetooth devices on IOS devices.
 
 # Prerequisites:
